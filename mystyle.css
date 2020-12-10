@@ -43,3 +43,7 @@ img.two{
 	padding-left: 80px
 
 }
+.resize{
+	height: auto;
+	max-width: 100%;
+}
